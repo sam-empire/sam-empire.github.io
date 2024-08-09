@@ -5,7 +5,6 @@ title: About
 
 # About Me
 
-
 ## Hi, I’m Samuel!
 
 I'm a passionate software developer with a knack for transforming complex problems into elegant, efficient solutions.
