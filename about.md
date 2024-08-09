@@ -13,13 +13,13 @@ With expertise in Python and other High-level Languages, I thrive on tackling ch
 
 ## What I do
 
-**Languages & Technologies:** Specialise in Python and java with Intermediate knowledge on Others.
-**Specialities:** Full-stack development.
-**Current Focus:** Building scalable and secured web applications.
+**Languages & Technologies:** Specialise in Python and java with Intermediate knowledge on Others.  
+**Specialities:** Full-stack development.  
+**Current Focus:** Building scalable and secured web applications.  
 
 ## Let's Connect
 
 I’m always open to new opportunities and collaborations. Feel free to reach out if you have any questions, want to discuss a project, or just want to connect.
 
-**Linkedin:** <https://www.linkedin.com/in/samuel-chukwuma-3478a92b2>
+**Linkedin:** <https://www.linkedin.com/in/samuel-chukwuma-3478a92b2>  
 **Email:** <Samuelsammytwo@gmail.com>
